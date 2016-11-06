@@ -8,6 +8,8 @@ Project Goals:
 	Practicing GitHub multi-member workflow, 
 	Design a project and implement it.
 
+Android SDK should be above level 15.
+
 Project Active time: From Nov. 6, 2016 to Jan. 10, 2017
 
 Hoping we have a good experience from this android project.
